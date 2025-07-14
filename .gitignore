@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables (contains secret keys)
+.env
+
+# Generated output files (CSVs, HTMLs, PNGs)
+outputs/
+module1_outputs/
+module1.5_outputs/
+module2_outputs/
+avs_concentration_summary.csv
+
+.DS_Store
